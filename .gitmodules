@@ -1,3 +1,3 @@
 [submodule "modulos/exemplos_pic"]
-	path = modulos/exemplos_pic
+	path = modulos/conteudos_PIC
 	url = https://github.com/EESC-Embarcados/PIC.git
