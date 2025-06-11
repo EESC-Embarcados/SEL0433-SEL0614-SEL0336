@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"G:\Meu Drive\Pasta dinamica\Profissional\Atuação\Docencia\USP\EESC-SEL\SEL0433  0336 0614 Aplicação de Microprocessadores\2 PIC e Linguagem C\Exemplos\Exemplo_3_display_inc\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"G:\Meu Drive\Pasta dinamica\Profissional\Atuação\Docencia\USP\EESC-SEL\SEL0433  0336 0614 Aplicação de Microprocessadores\2 PIC e Linguagem C\Exemplos\Exemplo_3_display_inc\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "display_incremento.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+hint: 33	1354	 warning: "/*" within comment	G:\Meu Drive\Pasta dinamica\Profissional\Atuação\Docencia\USP\EESC-SEL\SEL0433  0336 0614 Aplicação de Microprocessadores\2 PIC e Linguagem C\Exemplos\Exemplo_3_display_inc\display_incremento.c
+diagnostics: 0	122	Compilation Started	display_incremento.c
+diagnostics: 147	123	Compiled Successfully	display_incremento.c
+diagnostics: 0	127	All files Compiled in 312 ms	 
+hint: 0	1144	Used RAM (bytes): 3 (1%)  Free RAM (bytes): 2024 (99%)	Used RAM (bytes): 3 (1%)  Free RAM (bytes): 2024 (99%)
+hint: 0	1144	Used ROM (bytes): 186 (1%)  Free ROM (bytes): 32582 (99%)	Used ROM (bytes): 186 (1%)  Free ROM (bytes): 32582 (99%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 219 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 688 ms	 
+diagnostics: 0	103	Finished successfully: 12 mai 2025, 17:38:48	MyProject.mcppi
