@@ -1,3 +1,6 @@
 [submodule "PIC"]
 	path = PIC
 	url = https://github.com/EESC-Embarcados/PIC.git
+[submodule "ESP_32"]
+	path = ESP_32
+	url = https://github.com/EESC-Embarcados/ESP32
