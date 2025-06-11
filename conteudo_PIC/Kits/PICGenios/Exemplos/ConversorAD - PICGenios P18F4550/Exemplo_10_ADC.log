@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"C:\Users\pedro\USP\PIC\PICSimLab\PICGenios\Exemplos\Exemplo_10_ADC_LCD\Exemplo_10_ADC.mcppi" -SP"D:\mikroc\mikroC PRO for PIC\Defs\" -SP"D:\mikroc\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\pedro\USP\PIC\PICSimLab\PICGenios\Exemplos\Exemplo_10_ADC_LCD\" -IP"D:\mikroc\mikroC PRO for PIC\uses\P18\" "Exemplo_10_ADC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+warning: 0	1507	Unknown pragma line ignored: ''	Exemplo_10_ADC.c
+diagnostics: 0	122	Compilation Started	Exemplo_10_ADC.c
+diagnostics: 92	123	Compiled Successfully	Exemplo_10_ADC.c
+hint: 45	1164	Variable 'Leitura_ADC' has been eliminated by optimizer	Exemplo_10_ADC.c
+diagnostics: 0	127	All files Compiled in 79 ms	 
+hint: 0	1144	Used RAM (bytes): 36 (2%)  Free RAM (bytes): 1991 (98%)	Used RAM (bytes): 36 (2%)  Free RAM (bytes): 1991 (98%)
+hint: 0	1144	Used ROM (bytes): 904 (3%)  Free ROM (bytes): 31864 (97%)	Used ROM (bytes): 904 (3%)  Free ROM (bytes): 31864 (97%)
+diagnostics: 0	125	Project Linked Successfully	Exemplo_10_ADC.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Exemplo_10_ADC.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 11 jun 2025, 14:39:37	Exemplo_10_ADC.mcppi
