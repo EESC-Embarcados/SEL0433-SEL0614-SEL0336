@@ -1,5 +1,0 @@
-main
-	ConfigMCU
-	ConfigTIMER
-	ConfigInterrupt
-Interrupt
