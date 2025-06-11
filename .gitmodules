@@ -1,0 +1,3 @@
+[submodule "PIC"]
+	path = PIC
+	url = https://github.com/EESC-Embarcados/PIC.git
